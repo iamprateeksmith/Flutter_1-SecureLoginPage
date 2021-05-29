@@ -1,0 +1,9 @@
+---------------------------------------------
+| CHAPTER-2 = Git,Dart Data Types, Scaffold |
+---------------------------------------------
+
+1 - git init
+2 - git add.
+3 - git commit -m "First Commit"
+4 - click on branches - Create new branch... [DAY-1]
+5 - 
