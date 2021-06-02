@@ -25,7 +25,7 @@ class LoginPage extends StatelessWidget {
           Text(
             "Login With Security",
             style: GoogleFonts.pacifico(
-              textStyle: TextStyle(color: Colors.orange, letterSpacing: 2),
+              textStyle: TextStyle(color: Colors.deepOrange, letterSpacing: 2),
               fontSize: 22,
               fontWeight: FontWeight.w300,
             ),
