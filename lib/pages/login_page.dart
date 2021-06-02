@@ -14,7 +14,7 @@ class LoginPage extends StatelessWidget {
       child: Column(
         children: [
           Image.asset(
-            "assets/images/secure_login_2.png",
+            "assets/images/secure_login_1.png",
             fit: BoxFit.scaleDown,
             height: 400.0,
           ),
@@ -44,14 +44,14 @@ class LoginPage extends StatelessWidget {
               children: [
                 TextFormField(
                   decoration: InputDecoration(
-                    hintText: "Enter Username",
+                    hintText: "Enter Your Username",
                     labelText: "Username",
                   ),
                 ),
                 TextFormField(
                   obscureText: true,
                   decoration: InputDecoration(
-                    hintText: "Enter Password",
+                    hintText: "Enter Your Password",
                     labelText: "Password",
                   ),
                 ),
